@@ -1,0 +1,1 @@
+- [SQL Web Book For Beginners by Jahanur Islam ](https://jahanur96.github.io/sql-web-book/)
